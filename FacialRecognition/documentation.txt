@@ -1,0 +1,2 @@
+http://aka.ms/ai900-face
+https://portal.vision.cognitive.azure.com/gallery/featured
