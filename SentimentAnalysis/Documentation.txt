@@ -1,0 +1,2 @@
+http://aka.ms/ai900-speech
+http://aka.ms/ai900-text-analysis
