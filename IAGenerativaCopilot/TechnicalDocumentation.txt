@@ -1,0 +1,3 @@
+https://aka.ms/ai900-bing-copilot
+https://aka.ms/ai900-azure-openai
+https://aka.ms/ai900-content-filters
